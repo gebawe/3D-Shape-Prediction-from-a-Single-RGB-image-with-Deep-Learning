@@ -4,4 +4,4 @@ The goal of this 3D prediction from single RGB image is to predict the 3D geomet
 # Note: Since the paper in process for publication some details of the implemetation are not discused here.
 
 # Results
-![result.JPG](https://github.com/awethaileslassie/Improving-3D-Shape-Prediction-from-a-Single-RGB-image-with-Deep-Learning-by-adding-Prior-Cues/result.JPG)
+![result.JPG](https://github.com/awethaileslassie/Improving-3D-Shape-Prediction-from-a-Single-RGB-image-with-Deep-Learning-by-adding-Prior-Cues/blob/master/result.JPG)
